@@ -7,5 +7,5 @@ You can try the app here:
 
 
 ## 📸 Screenshot
-![App Screenshot](app (2).jpg)
+![App Screenshot](app_2.jpg)
 
